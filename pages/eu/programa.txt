@@ -1,0 +1,48 @@
+~~NOTOC~~
+
+====== Uztailak 14, Osteguna, goizean: Komunikazioak ======
+<color black/white>09:00</color> Harrera
+
+<color white/teal>09:15</color> Asterisk, erabilera anitzeko IP telefonogunea - [[ponentes#iker_sagasti|Iker Sagasti]]\\
+<color white/teal>10:00</color> SIP protokoloa IP-tik haratago - [[ponentes#saul_ibarra|Saúl Ibarra]]
+
+<color black/white>10:45</color> Atsedenaldia
+
+<color white/teal>11:15</color> HSMMN proiektua, irrati eta IP gaineko ahotsaren bateratzea- [[ponentes#alex_casanova|Alex Casanova]]\\
+<color white/olive>12:00</color> ifreeTablet, software askea erabiltzen duen tablet askea - [[ponentes#jose_luis_aparicio|Jose Luis Aparicio]]\\
+<color white/olive>12:45</color> Arduino proiektua- [[ponentes#david_cuartielles|David Cuartielles]]
+
+<color black/white>13:45</color> Saioaren amaiera
+
+====== Uztailak 14, Osteguna, arratsaldean: Guifi ======
+<color white/olive>16:00</color> Tempest eta beste informazio jario batzuk - [[ponentes#pablo_garaizar|Pablo Garaizar]]\\
+<color white/teal>16:45</color> guifi.net errEboluzioa -
+
+<color black/white>17:30</color> Atsedenaldia [[ponentes#pau_escrich|Pau Escrich]]
+
+<color white/teal>18:00</color> Haririk gabeko teknologiadun Mesh sareak: alderdi tekniko eta sozialak - [[ponentes#pau_escrich|Pau Escrich]]\\
+<color white/teal>19:00</color> Guifi EH, Catalunyako sare askea Euskal Herrira heldu da. - [[ponentes#joseba_senosiain|Joseba Senosiain]]
+
+<color black/white>19:30</color> Saioaren amaiera
+
+<color darkred/orange>21:30</color> Emaileekin afaria
+
+====== Uztailak 15, Ostirala, goizean: Hardware askea ======
+<color white/olive>09:30</color> Kontsumo txikiko ordenagailuak: SheevaPlug - [[ponentes#jorge_cacho|Jorge Cacho]]\\
+<color white/teal>10:00</color> Artearen egoera estandar irekien bidezko mugikorrentzako plataforma anitzeko aplikazioen garapenean - [[ponentes#iker_perez_de_albeniz|Iker Pérez de Albéniz]]
+
+<color black/white>10:45</color> Atsedenaldia
+
+<color white/olive>11:15</color> OpenLase, laser bidezko realtime proiekzioa - [[ponentes#hector_martin|Hector Martín]]\\
+<color white/olive>12:15</color> Hardware copyleft, Qi-hardware komunitatea - [[ponentes#david_reyes|David Reyes]]
+
+<color black/white>13:30</color> Jardunaldien amaiera.
+
+<note tip>
+  * <color white/olive>---</color> Hardware Hitzaldi/Aurkezpena
+  * <color white/teal>---</color> Komunikazio Hitzaldi/Aurkezpena
+  * <color black/white>---</color> Hasiera/Atsedenaldia/Amaiera
+  * <color darkred/orange>---</color> Ekintza soziala
+</note>
+
+<note tip>Egitarauan aldaketa txikiak eman daitezke ekintzen egunerarte.</note>

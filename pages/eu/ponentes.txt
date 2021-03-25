@@ -1,0 +1,36 @@
+~~NOTOC~~
+==Jose Luis Aparicio (Madril)==
+|{{:jlaparicio.jpg?100|}}|Enpresen zientzietan lizentziatua eta enpresen zuzendaritzan MBA bat du. Barwick taldearen bazkide da eta berrikuntza teknologikoko [[http://outimed.es/|Outimed]] enpresaren bazkide eta lehendakaria da.|
+
+==Jorge Cacho (Bilbo)==
+|{{:jorge.jpg?100|}}|Saftware askearen jarraitzailea. Software askea aukera teknologikoa baino gehiago gizarte hobe bat sortzera laguntzen duen aukera etikoa dela buruan sartuta du. 2010 urtetik [[http://www.tuxinfo.com.ar|Tuxinfo]] aldizkari askean idazle eta diseinatzaile lanean dabil, herraminta askeak soilik erabiliz (Gimp, Inkscape, Scribus, ...).|
+
+==Alex Casanova (Valentzia)==
+|{{:alex_casanova.jpg?100|}}|[[http://www.bicubik.net/hsmmn/|HSMMN]] Proiektuaren kide fundatzaile eta [[http://valencia.guifi.net/|valencia.guifi.net-en]] laguntzaile, komunikazio sarei eta VoIP eta irrati bateratzeari buruz aldizkari espezializatuetan argitaratutako zenbait artikuluren idazlea. Arlo profesionalean, GNU/Linux, Windows eta Solaris sistemen kudeaketa lanetan aritzen da.|
+
+==David Cuartielles (Malmö)==
+|{{:david_cuartielles.jpg?100|}}|David Cuartielles Malmö-ko unibertsitateko [[http://www.mah.se/k3/english|School of Arts and Communication-eko]] Prototipatuen Laborategiko zuzendaria da.Massimo Banzi, Physical Computing Laboratory-aren zuzendaria, eta Dave Mellis MIT-ean diplomatuarekin bat, Arduino proiektua sortu zuen, hardware aske plataforma. Gaur egun[[http://developer.android.com/guide/topics/usb/adk.html|ADK-rekin]] lan egiten du eta Arduinoren web zerbitzuen arduraduna da.|
+
+==Pau Escrich (Bartzelona)==
+|{{:pau.jpg?100|}}|Askatasun teknologikoaren aintzindaria eta mugimendu hacktivisten maitalea, urte batzuk daramatza [[http://guifi.net/|guifi.net]] proiektuan, guifi·Sants ekimenaren sortzailea da. Software askea 14 urte zituenetik erabiltzen du gaur egun Networkin eta mesh sareen munduan dabil lanean, QMP (Quick Mesh Project) proiektuan, ikerlari moduan Bartzelonako UPC-ren COFINE proiektuan.|
+
+==Pablo Garaizar (Bilbo)==
+|{{:garaizar.jpg?100|}}|[[http://www.e-ghost.deusto.es/|e-ghost]] en partaide eta [[http://www.fsf.org/|FSF]]-ren laguntzaile da. Hamar urte baino gehiago daramatza teknologia askeak erabiltzen eta beraien erabilera ahal bezainbat sustatzen du [[http://www.ingenieria.deusto.es/|Deustoko Unibertsitateko Ingenieritza Fakultatean]] ematen dituen klaseetan. Kultura askearen defendatzaile sutsua izanik, lizentzia askeekin argitaratzen ditu bere hezkuntza materialak.|
+
+==Saúl Ibarra (Amsterdam)==
+|{{:saul.jpg?100|}}|Saulek 2005 urtean aurkitu zuen VoIP eta ordutik dabil SIP protokoloari buruz ikasten eta bere erabilera aldarrikatzen. Pythonista sutsua eta software askearen maitale, vere lan orduen %95 ematen ditu lizentzia askedun proiektuetan.|
+
+==Hector Martín (Castro)==
+|{{:marcan.jpg?100|}}|Hector OpenLase proiektuaren sortzailea da, etxeko laser proiektorentzako denbora errealeko 2D eta 3D framework bat. Laserra aurkezpenean erabiliko da erakustaldi modura. [[http://www.youtube.com/results?search_query=openlase|Hemen]] zenbait bideo ikus daitezke.|
+
+==Iker Pérez de Albéniz (Bilbo)==
+|{{:iker_perez.jpg?100|}}|Bertoko Open Source mugimenduan dago murgildrik luzetik, orain mugikorren garapenaren munduan Web estandarren (HTML5+CSS3+JavaScript) erabilera zabaltzen dabil lanean TapQuo izeneko abentura berri baten.|
+
+==Iker Sagasti (Bilbo)==
+|{{:iker_sagasti.jpg?100|}}|Ekintzaile gaztea, Iker, Iker es socio fundador y [[http://www.irontec.com/|Irontec: Internet y Sistemas sobre GNU/Linux]] enpresaren bazkide eta fundatzailea da, baita zuzendari gerentea. 2005 urtetik [[http://www.esle.eu/|ESLE]]ren fundatzaile eta zuzendaritza batzordeko kide da. Software askearen sustatzailea da,  zenbait konferentzia eman ditu negozio eta teknologi modelo honi buruz Euskadi, Espainia eta Europan zehar.|
+
+==David Samblas (Bartzelona)==
+|{{:david_reyes.jpg?100|}}|David [[http://www.tuxbrain.com/|Tuxbrain]]en kofundatzaile eta CEO-a da, hardware aske eta FOSS friendly-a, saldu, banatu eta sortu egiten duen enpresa. [[http://en.qi-hardware.com/|Qi-Hardware]] eta [[http://www.arduino.cc/|Arduino]] komunitateen proiektuen promozio eta garapenean gogotsu parte hartzen du eta denborarik badu beste FOSS proiektu batzuetan laguntzen du.|
+
+==Joseba Senosiain (Xulapain)==
+|{{:joseba.jpg?100|}}|[[http://guifi.net|guifi.net]], komunikazio sare aske, ireki eta neutralaren proiektuaren partehartzaile. Hasieran Catalunyan parte hartu zuen eta Nafarroara itzulitzean, sare honen sustatzeileetako bat izan da, Xulapain haranean elkarlanean zabaldu egin zuten. Interesatuta dago gizarte zibiletik baserri guneetan komunikaziorako sareen garapenean.|

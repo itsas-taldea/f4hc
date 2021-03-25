@@ -1,0 +1,48 @@
+~~NOTOC~~
+
+====== Jueves 14, mañana: especial Comunicaciones ======
+<color black/white>09:00</color> Recepción
+
+<color white/teal>09:15</color> Asterisk, la centralita IP que sirve para mucho más - [[ponentes#iker_sagasti|Iker Sagasti]]\\
+<color white/teal>10:00</color> Protocolo SIP, más allá de la VoIP - [[ponentes#saul_ibarra|Saúl Ibarra]]
+
+<color black/white>10:45</color> Descanso
+
+<color white/teal>11:15</color> Proyecto HSMMN, integración de radio y Voz IP - [[ponentes#alex_casanova|Alex Casanova]]\\
+<color white/olive>12:00</color> ifreeTablet, el tablet libre con software libre - [[ponentes#jose_luis_aparicio|Jose Luis Aparicio]]\\
+<color white/olive>12:45</color> Proyecto Arduino - [[ponentes#david_cuartielles|David Cuartielles]]
+
+<color black/white>13:45</color> Fin de la sesión
+
+====== Jueves 14, tarde: especial Guifi ======
+<color white/olive>16:00</color> Tempest y otras fugas de información - [[ponentes#pablo_garaizar|Pablo Garaizar]]\\
+<color white/teal>16:45</color> La (r)evolución guifi.net - [[ponentes#pau_escrich|Pau Escrich]]
+
+<color black/white>17:30</color> Descanso
+
+<color white/teal>18:00</color> Redes Mesh con tecnología inalámbrica: aspectos técnicos y sociales - [[ponentes#pau_escrich|Pau Escrich]]\\
+<color white/teal>19:00</color> Guifi EH, la red wifi libre de Cataluña llega a Euskal Herria - [[ponentes#joseba_senosiain|Joseba Senosiain]]
+
+<color black/white>19:30</color> Fin de la sesión
+
+<color darkred/orange>21:30</color> Cena con ponentes
+
+====== Viernes 15, mañana: especial Hardware libre ======
+<color white/olive>09:30</color> Ordenadores de bajo consumo: el caso del SheevaPlug - [[ponentes#jorge_cacho|Jorge Cacho]]\\
+<color white/teal>10:00</color> El estado del arte en desarrollo de aplicaciones multiplataforma para móviles mediante estándares abiertos - [[ponentes#iker_perez_de_albeniz|Iker Pérez de Albéniz]]
+
+<color black/white>10:45</color> Descanso
+
+<color white/olive>11:15</color> OpenLase, proyección realtime con láser - [[ponentes#hector_martin|Hector Martín]]\\
+<color white/olive>12:15</color> Hardware copyleft, la comunidad Qi-hardware - [[ponentes#david_samblas|David Samblas]]
+
+<color black/white>13:30</color> Fin del evento
+
+<note tip>
+  * <color white/olive>---</color> Charla/Presentación Hardware
+  * <color white/teal>---</color> Charla/Presentación Comunicaciones
+  * <color black/white>---</color> Inicio/Descanso/Fin
+  * <color darkred/orange>---</color> Evento social
+</note>
+
+<note tip>El programa podrá tener cambios menores hasta el día del evento.</note>

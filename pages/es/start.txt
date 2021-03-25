@@ -1,0 +1,14 @@
+~~NOTOC~~
+
+<note important>Los vídeos, presentaciones y demás material de las jornadas se encuentran disponibles en las secciones [[materiales_propios|Logotipo, programa, pantallas...]], [[transparencias|Transparencias/Presentaciones]] y [[videos|Vídeos]].</note>
+
+Durante los días jueves 14 y viernes 15 de julio tendrán lugar en el [[http://www.bizkaia.ehu.es/p209-sharetct/es/contenidos/informacion/sharet_edificio/es_biz_aret/edificio.html|Bizkaia Aretoa]] de [[http://www.bilbao.net/|Bilbao]] las jornadas **f4hc, //Freedom for Hardware & Communications//**, organizadas por [[http://itsas.ehu.es|itsas]], grupo promotor del software y las tecnologías libres en el ámbito de la [[http://www.ehu.es/|UPV/EHU]]. Los objetivos de f4hc son:
+  - Ser un escaparate en el cual mostrar casos de éxito y novedades en tecnologías relacionadas con hardware libre así como software libre empleado en dispositivos y soluciones del ámbito de las telecomunicaciones.
+  - Fomentar el interés por el hardware y software libres, tanto en empresas del sector de las TICs como en el alumnado y profesorado de la UPV/EHU.
+  - Ser un canal de contacto entre empresas, y de éstas con el alumnado, a ﬁn de resaltar el papel del software libre como motor potencial para la economía local y el conocimiento universal.
+
+[[inscripcion|Inscríbete]] cuanto antes.
+
+Desde itsas queremos agradecer el patrocinio al [[http://www.bizkaia.ehu.es|Campus de Bizkaia de la UPV/EHU]] y al [[http://www.cenatic.es|Cenatic]].
+
+{{ :logo_f4hc.png?nolink&300 |}}

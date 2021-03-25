@@ -1,0 +1,12 @@
+<note important>Jardunaldietako bideoak, aurkezpenak eta bestelako materiala [[materiales_propios|Logotipoa, egitaraua, pantailak...]], [[transparencias|Transparentziak/Aurkezpenak]] eta [[videos|Bideoak]] ataletan daude eskuragarri.</note>
+
+Uztailaren 14 eta 15ean, [[http://itsas.ehu.es|itsas]]-ek, unibertsitate mailan software librea, estandar irekiak eta kultura librearen idealak bultzatu nahi dituen UPV/EHU-ko Software Libre Taldeak, [[http://www.bizkaia.ehu.es/p209-sharetct/es/contenidos/informacion/sharet_edificio/es_biz_aret/edificio.html|Bizkaia Aretoan]], [[http://www.bilbao.net/|Bilbon]] antolaturiko **f4hc,  //Freedom for Hardware & Communications//** jardunaldiak burutuko dira. f4hc-ren helburuak hurrengoak dira:
+  - Hardware askearen eta telekomunikazioen arloan erabilitako software askearen berrikuntzen eta arrakasten erakustokia izatea.
+  - Hardware eta software askearekiko interesa sustatzea, IKT-en arloko enpresetan eta UPV/EHUko ikasle eta irakasleengan.
+  - Enpresek elkarrekin eta ikasleriaren komunikatzeko bidea izatea, software askeak bertoko ekonomia eta ezagutza unibertsala bultzatzeko duen ahalmena azpimarratzea.
+
+[[eu:inscripcion|Izena eman ezazu]] ahal bezain laster.
+
+Itsaseko partaideok [[http://www.bizkaia.ehu.es|UPV/EHUko Bizkaiko Campusa]]-k eta [[http://www.cenatic.es|Cenatic]]-ek eskainitako babesa eskertu nahi dugu.
+
+{{ :logo_f4hc.png?nolink&300 |}}

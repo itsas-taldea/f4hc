@@ -1,0 +1,83 @@
+~~NOTOC~~
+
+====== Vídeos ======
+
+<note important>Los vídeos están siendo editados para añadir el logotipo, las cabeceras, etc. Mientras tanto, están disponibles los ficheros tal cual fueron grabados por el equipamiento del Bizkaia Aretoa</note>
+
+===== Jueves 14, mañana: especial Comunicaciones =====
+
+Asterisk, la centralita IP que sirve para mucho más - [[ponentes#iker_sagasti|Iker Sagasti]]
+
+  * VOB ([[http://www.archive.org/download/f4hc_1/VTS_01_1.VOB|1]], [[http://www.archive.org/download/f4hc_1/VTS_01_2.VOB|2]])
+  * OGV ([[http://www.archive.org/download/f4hc_1/VTS_01_1.ogv|1]], [[http://www.archive.org/download/f4hc_1/VTS_01_2.ogv|2]])
+
+Protocolo SIP, más allá de la VoIP - [[ponentes#saul_ibarra|Saúl Ibarra]]
+
+  * [[http://www.archive.org/download/f4hc_1/VTS_02_1.VOB|VOB]]
+  * [[http://www.archive.org/download/f4hc_1/VTS_02_1.ogv|OGV]]
+
+Proyecto HSMMN, integración de radio y Voz IP - [[ponentes#alex_casanova|Alex Casanova]]
+
+  * [[http://www.archive.org/download/f4hc_2/VTS_01_1.VOB|VOB]]
+  * [[http://www.archive.org/download/f4hc_2/VTS_01_1.ogv|OGV]]
+
+Proyecto Arduino - [[ponentes#david_cuartielles|David Cuartielles]]
+
+  * VOB ([[http://www.archive.org/download/f4hc_2/VTS_01_1.VOB|1]] -a partir del min 52-, [[http://www.archive.org/download/f4hc_2/VTS_01_2.VOB|2]], [[http://www.archive.org/download/f4hc_2/VTS_01_3.VOB|3]])
+  * OGV ([[http://www.archive.org/download/f4hc_2/VTS_01_1.ogv|1]] -a partir del min 52-, [[http://www.archive.org/download/f4hc_2/VTS_01_2.ogv|2]], [[http://www.archive.org/download/f4hc_2/VTS_01_3.ogv|3]])
+
+===== Jueves 14, tarde: especial Guifi =====
+
+Tempest y otras fugas de información - [[ponentes#pablo_garaizar|Pablo Garaizar]]
+
+  * VOB ([[http://www.archive.org/download/f4hc_3/VTS_01_1.VOB|1]], [[http://www.archive.org/download/f4hc_3/VTS_01_2.VOB|2]])
+  * OGV ([[http://www.archive.org/download/f4hc_3/VTS_01_1.ogv|1]], [[http://www.archive.org/download/f4hc_3/VTS_01_2.ogv|2]])
+
+La (r)evolución guifi.net - [[ponentes#pau_escrich|Pau Escrich]]
+
+  * [[http://www.archive.org/download/f4hc_3/VTS_02_1.VOB|VOB]]
+  * [[http://www.archive.org/download/f4hc_3/VTS_02_1.ogv|OGV]]
+
+Redes Mesh con tecnología inalámbrica: aspectos técnicos y sociales - [[ponentes#pau_escrich|Pau Escrich]]
+
+  * [[http://www.archive.org/download/f4hc_3/VTS_03_1.VOB|VOB]]
+  * [[http://www.archive.org/download/f4hc_3/VTS_03_1.ogv|OGV]]
+
+Guifi EH, la red wifi libre de Cataluña llega a Euskal Herria - [[ponentes#joseba_senosiain|Joseba Senosiain]]
+
+  * [[http://www.archive.org/download/f4hc_3/VTS_04_1.VOB|VOB]]
+  * [[http://www.archive.org/download/f4hc_3/VTS_04_1.ogv|OGV]]
+
+===== Viernes 15, mañana: especial Hardware libre =====
+
+Ordenadores de bajo consumo: el caso del SheevaPlug - [[ponentes#jorge_cacho|Jorge Cacho]]
+
+  * [[http://www.archive.org/download/f4hc_4/VTS_04_1.VOB|VOB]]
+  * [[http://www.archive.org/download/f4hc_4/VTS_04_1.ogv|OGV]]
+
+El estado del arte en desarrollo de aplicaciones multiplataforma para móviles mediante estándares abiertos - [[ponentes#iker_perez_de_albeniz|Iker Pérez de Albéniz]]
+
+  * [[http://www.archive.org/download/f4hc_4/VTS_03_1.VOB|VOB]]
+  * [[http://www.archive.org/download/f4hc_4/VTS_03_1.ogv|OGV]]
+
+OpenLase, proyección realtime con láser - [[ponentes#hector_martin|Hector Martín]]
+
+  * [[http://www.archive.org/download/f4hc_4/VTS_02_1.VOB|VOB]]
+  * [[http://www.archive.org/download/f4hc_4/VTS_02_1.ogv|OGV]]
+
+Hardware copyleft, la comunidad Qi-hardware - [[ponentes#david_samblas|David Samblas]]
+
+  * VOB ([[http://www.archive.org/download/f4hc_4/VTS_01_1.VOB|1]], [[http://www.archive.org/download/f4hc_4/VTS_01_2.VOB|2]])
+  * OGV ([[http://www.archive.org/download/f4hc_4/VTS_01_1.ogv|1]], [[http://www.archive.org/download/f4hc_4/VTS_01_2.ogv|2]])
+
+<note tip>Los ficheros se encuentran alojados en archive.org:
+
+  * http://www.archive.org/details/f4hc_1
+  * http://www.archive.org/details/f4hc_2
+  * http://www.archive.org/details/f4hc_3
+  * http://www.archive.org/details/f4hc_4
+</note>
+
+====== Videos jueves por la mañana =====
+
+http://www.ustream.tv/channel/f4hc

@@ -1,0 +1,17 @@
+~~NOTOC~~
+====== Presentaciones =====
+**Jueves mañana:**
+  *Saúl Ibarra - Más allá de la VoIP
+{{ slideshare>sipbeyondvoip-110718015554-phpapp02 }}
+**Jueves tarde:**
+  *Pau Escrich - La experiencia de la red abierta guifi
+{{ slideshare>f4hc2011guifi-110929102957-phpapp01 }}
+  *Pau Escrich - Redes Mesh
+{{ slideshare>f4hc2011mesh-110929102956-phpapp01 }}
+**Viernes mañana:**
+  *Jorge Cacho - Ordenadores de bajo consumo: SheevaPlug
+{{ slideshare>f4hc2011sheevaplug-110929103000-phpapp02 }}
+  *Iker Pérez de Albéniz - El estado del arte en desarrollo de aplicaciones multiplataforma para móviles mediante estándares abiertos
+{{ slideshare>f4hc2011moviles-110929102959-phpapp02 }}
+  *David Samblas - Haciendo hardware copyleft
+{{ slideshare>f4hc2011hardwarecopyleft-110929102955-phpapp02 }}

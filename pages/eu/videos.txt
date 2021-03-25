@@ -1,0 +1,83 @@
+~~NOTOC~~
+
+====== Bideoak =====
+
+<note important>Bideoak editatzen ari gara, logotipoa, goiburuak, etab. gehitzeko. Bitartean fitxategiak Bizkaia Aretoko ekipamenduaz grabatu bezala dituzue eskuragarri.</note>
+
+===== Uztailak 14, Osteguna, goizean: Komunikazioak =====
+
+Asterisk, erabilera anitzeko IP telefonogunea - [[ponentes#iker_sagasti|Iker Sagasti]]
+
+  * VOB ([[http://www.archive.org/download/f4hc_1/VTS_01_1.VOB|1]], [[http://www.archive.org/download/f4hc_1/VTS_01_2.VOB|2]])
+  * OGV ([[http://www.archive.org/download/f4hc_1/VTS_01_1.ogv|1]], [[http://www.archive.org/download/f4hc_1/VTS_01_2.ogv|2]])
+
+SIP protokoloa IP-tik haratago - [[ponentes#saul_ibarra|Saúl Ibarra]]
+
+  * [[http://www.archive.org/download/f4hc_1/VTS_02_1.VOB|VOB]]
+  * [[http://www.archive.org/download/f4hc_1/VTS_02_1.ogv|OGV]]
+
+HSMMN proiektua, irrati eta IP gaineko ahotsaren bateratzea- [[ponentes#alex_casanova|Alex Casanova]]
+
+  * [[http://www.archive.org/download/f4hc_2/VTS_01_1.VOB|VOB]]
+  * [[http://www.archive.org/download/f4hc_2/VTS_01_1.ogv|OGV]]
+
+Arduino proiektua- [[ponentes#david_cuartielles|David Cuartielles]]
+
+  * VOB ([[http://www.archive.org/download/f4hc_2/VTS_01_1.VOB|1]] -a partir del min 52-, [[http://www.archive.org/download/f4hc_2/VTS_01_2.VOB|2]], [[http://www.archive.org/download/f4hc_2/VTS_01_3.VOB|3]])
+  * OGV ([[http://www.archive.org/download/f4hc_2/VTS_01_1.ogv|1]] -a partir del min 52-, [[http://www.archive.org/download/f4hc_2/VTS_01_2.ogv|2]], [[http://www.archive.org/download/f4hc_2/VTS_01_3.ogv|3]])
+
+===== Uztailak 14, Osteguna, arratsaldean: Guifi =====
+
+Tempest eta beste informazio jario batzuk - [[ponentes#pablo_garaizar|Pablo Garaizar]]
+
+  * VOB ([[http://www.archive.org/download/f4hc_3/VTS_01_1.VOB|1]], [[http://www.archive.org/download/f4hc_3/VTS_01_2.VOB|2]])
+  * OGV ([[http://www.archive.org/download/f4hc_3/VTS_01_1.ogv|1]], [[http://www.archive.org/download/f4hc_3/VTS_01_2.ogv|2]])
+
+guifi.net errEboluzioa - [[ponentes#pau_escrich|Pau Escrich]]
+
+  * [[http://www.archive.org/download/f4hc_3/VTS_02_1.VOB|VOB]]
+  * [[http://www.archive.org/download/f4hc_3/VTS_02_1.ogv|OGV]]
+
+Haririk gabeko teknologiadun Mesh sareak: alderdi tekniko eta sozialak - [[ponentes#pau_escrich|Pau Escrich]]
+
+  * [[http://www.archive.org/download/f4hc_3/VTS_03_1.VOB|VOB]]
+  * [[http://www.archive.org/download/f4hc_3/VTS_03_1.ogv|OGV]]
+
+Guifi EH, Catalunyako sare askea Euskal Herrira heldu da. - [[ponentes#joseba_senosiain|Joseba Senosiain]]
+
+  * [[http://www.archive.org/download/f4hc_3/VTS_04_1.VOB|VOB]]
+  * [[http://www.archive.org/download/f4hc_3/VTS_04_1.ogv|OGV]]
+
+===== Uztailak 15, Ostirala, goizean: Hardware askea =====
+
+Kontsumo txikiko ordenagailuak: SheevaPlug - [[ponentes#jorge_cacho|Jorge Cacho]]
+
+  * [[http://www.archive.org/download/f4hc_4/VTS_04_1.VOB|VOB]]
+  * [[http://www.archive.org/download/f4hc_4/VTS_04_1.ogv|OGV]]
+
+Artearen egoera estandar irekien bidezko mugikorrentzako plataforma anitzeko aplikazioen garapenean - [[ponentes#iker_perez_de_albeniz|Iker Pérez de Albéniz]]
+
+  * [[http://www.archive.org/download/f4hc_4/VTS_03_1.VOB|VOB]]
+  * [[http://www.archive.org/download/f4hc_4/VTS_03_1.ogv|OGV]]
+
+OpenLase, laser bidezko realtime proiekzioa - [[ponentes#hector_martin|Hector Martín]]
+
+  * [[http://www.archive.org/download/f4hc_4/VTS_02_1.VOB|VOB]]
+  * [[http://www.archive.org/download/f4hc_4/VTS_02_1.ogv|OGV]]
+
+Hardware copyleft, Qi-hardware komunitatea - [[ponentes#david_reyes|David Reyes]]
+
+  * VOB ([[http://www.archive.org/download/f4hc_4/VTS_01_1.VOB|1]], [[http://www.archive.org/download/f4hc_4/VTS_01_2.VOB|2]])
+  * OGV ([[http://www.archive.org/download/f4hc_4/VTS_01_1.ogv|1]], [[http://www.archive.org/download/f4hc_4/VTS_01_2.ogv|2]])
+
+<note tip>Fitxategiak archive.org orrialdean daude eskegita:
+
+  * http://www.archive.org/details/f4hc_1
+  * http://www.archive.org/details/f4hc_2
+  * http://www.archive.org/details/f4hc_3
+  * http://www.archive.org/details/f4hc_4
+</note>
+
+===== Ostegun goizeko bideoak ====
+
+http://www.ustream.tv/channel/f4hc

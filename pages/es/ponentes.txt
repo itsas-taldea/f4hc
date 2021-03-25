@@ -1,0 +1,36 @@
+~~NOTOC~~
+==Jose Luis Aparicio==
+|{{:jlaparicio.jpg?100|}}|[Madrid]\\ Licenciado en ciencias empresariales y con un MBA en Dirección de empresas, es socio del Grupo Barwick, y Presidente y socio de la empresa de innovación tecnológica [[http://outimed.es/|Outimed]].|
+
+==Jorge Cacho==
+|{{:jorge.jpg?100|}}|[Bilbao]\\ Entusiasta del software libre, y firme convencido de que esta opción es, más que una decisión tecnológica, una opción ética que contribuye a una sociedad mejor. Desde el 2010 colabora en la revista libre [[http://www.tuxinfo.com.ar|Tuxinfo]] como articulista y como diseñador usando únicamente herramientas libres (Gimp, Inkscape, Scribus, ...).|
+
+==Alex Casanova==
+|{{:alex_casanova.jpg?100|}}|[Valencia]\\ Miembro fundador del proyecto [[http://www.bicubik.net/hsmmn/|HSMMN]] y colaborador en [[http://valencia.guifi.net/|valencia.guifi.net]], es autor de varios artículos sobre redes de comunicaciones e integración de radio y VoIP en diversas publicaciones especializadas. A nivel profesional, desempeña tareas de administración de sistemas GNU/Linux, Windows y Solaris.|
+
+==David Cuartielles==
+|{{:david_cuartielles.jpg?100|}}|[Malmö]\\ David Cuartielles es director del Laboratorio de Prototipado de la [[http://www.mah.se/k3/english|School of Arts and Communication]] de la universidad de Malmö. Junto con Massimo Banzi, director del Physical Computing Laboratory, y Dave Mellis, diplomado en el MIT, creó el proyecto Arduino, plataforma de hardware libre. Actualmente trabaja con el [[http://developer.android.com/guide/topics/usb/adk.html|ADK]] y es responsable de los servicios web de la plataforma Arduino.|
+
+==Pau Escrich==
+|{{:pau.jpg?100|}}|[Barcelona]\\ Férreo precursor de la libertad tecnológica y amante de los movimientos hacktivistas, participa desde hace varios años en el proyecto [[http://guifi.net/|guifi.net]], siendo fundador de la iniciativa guifi·Sants. Usuario de software libre desde los 14 años, en la actualidad su trabajo se centra en el campo del Networking y las redes Mesh en el proyecto QMP (Quick Mesh Project), y como investigador en el proyecto CONFINE de la UPC en Barcelona.|
+
+==Pablo Garaizar==
+|{{:garaizar.jpg?100|}}|[Bilbao]\\ Es miembro del [[http://www.e-ghost.deusto.es/|e-ghost]] y colaborador de la [[http://www.fsf.org/|FSF]]. Utiliza tecnologías libres desde hace más de 10 años y trata, en la medida de lo posible, de fomentar su uso en sus clases en la [[http://www.ingenieria.deusto.es/|Facultad de Ingeniería de la Universidad de Deusto]]. Firme defensor de la cultura libre, publica con licencias libres los materiales educativos que elabora.|
+
+==Saúl Ibarra==
+|{{:saul.jpg?100|}}|[Amsterdam]\\ Saúl descubrió la VoIP en 2005 y desde entonces no ha parado de aprender y promulgar el uso del protocolo SIP. Pythonista hasta la muerte y amante del Software Libre, invierte el 95% de su tiempo de trabajo en proyectos bajo licencias libres.|
+
+==Hector Martín==
+|{{:marcan.jpg?100|}}|[Castro]\\ Héctor es el creador del proyecto OpenLase, un framework abierto para gráficos láser 2D y 3D en tiempo real para proyectores láser caseros. El propio láser se integrará como parte de la presentación a modo de demostración. [[http://www.youtube.com/results?search_query=openlase|Aquí]] se pueden ver algunos vídeos ilustrativos.|
+
+==Iker Pérez de Albéniz==
+|{{:iker_perez.jpg?100|}}|[Bilbao]\\ Involucrado en el movimiento Open Source local desde hace años, ahora empeñado en extender el uso de los estándares Web (HTML5+CSS3+JavaScript) al mundo del desarrollo móvil con una nueva aventura llamada TapQuo.|
+
+==Iker Sagasti==
+|{{:iker_sagasti.jpg?100|}}|[Bilbao]\\ Joven emprendedor, Iker es socio fundador y director gerente de la empresa [[http://www.irontec.com/|Irontec: Internet y Sistemas sobre GNU/Linux]]. Desde 2005 es miembro de la junta directiva y fundador de [[http://www.esle.eu/|ESLE]]. Evangelizador del software libre, ha impartido decenas de conferencias y cursos de formación en torno a dicho modelo de negocio y tecnologías a lo largo y ancho de Euskadi, España y Europa.|
+
+==David Samblas==
+|{{:david_reyes.jpg?100|}}|[Barcelona]\\ David es cofundandor y CEO de [[http://www.tuxbrain.com/|Tuxbrain]], empresa dedicada a la venta, distribucion y produccion de Hardware Libre y FOSS friendly, participa activamente en la promocion y desarrollo de proyectos de las comunidades de [[http://en.qi-hardware.com/|Qi-Hardware]], [[http://www.arduino.cc/|Arduino]], y si el tiempo lo permite colabora con otros proyectos FOSS.|
+
+==Joseba Senosiain==
+|{{:joseba.jpg?100|}}|[Xulapain]\\ Participante del proyecto [[http://guifi.net|guifi.net]], red de comunicaciones libre, abierta y neutral. Inicialmente participó en Catalunya, y en su regreso a Nafarroa ha sido uno de los impulsores de la red, desplegándola en forma colaborativa en el valle de Xulapain. Su interés está en desarrollar redes de comunicaciones desde la sociedad civil para entornos rurales.|

@@ -1,0 +1,17 @@
+====== Bizkaia Aretoa ======
+El evento se celebrará en el auditorio **[[http://www.bizkaia.ehu.es/p209-sharetct/es/contenidos/informacion/sharet_fotografias/es_fotos/baroja.html|Baroja]]** del Paraninfo [[http://www.bizkaia.ehu.es/p209-sharetct/es/contenidos/informacion/sharet_edificio/es_biz_aret/edificio.html|Bizkaia Aretoa]], situado en la Avenida Abandoibarra 3, junto al Museo de Bellas Artes de Bilbao, la Torre Iberdrola y la Biblioteca de Deusto.
+
+Es una zona bien comunicada, ya que está cerca de:
+  *La estación de metro Moyua.
+  *Las paradas de tranvía Abandoibarra y Guggenheim.
+\\
+;#;
+[[http://www.bizkaia.ehu.es/p209-content/es/contenidos/centro/vrb_ubicaciones/es_ubicacio/adjuntos/Plano%20Bilbao,%202011.pdf|Plano del Campus de Bizkaia]] (Bilbao, Barakaldo y Portugalete)
+;#;
+\\
+
+<olmap id="olMap" width="500px" height="400px" lat="43.2684415" lon="-2.9375105" zoom="17" statusbar="1" toolbar="1" controls="1" poihoverstyle="2">
+43.268725,-2.937961,0,.8,marker-red.png,Auditorio Baroja (Bizkaia Aretoa) \\
+ baselyr="OpenStreetMap">
+Paraninfo
+</olmap>

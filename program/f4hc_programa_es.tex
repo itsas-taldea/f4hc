@@ -1,0 +1,127 @@
+\documentclass[a4paper,titlepage,11pt,oneside]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[left=20mm, right=20mm, top=25mm, bottom=20mm]{geometry}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{fancybox}
+\usepackage{multirow}
+
+\usepackage[usenames,dvipsnames]{color}
+\usepackage[
+    bookmarks=true,
+    unicode=true,
+    pdftitle={Freedom for Hardware and Communications},
+    pdfsubject={f4hc},
+    pdfauthor={ITSAS},
+    linktoc=all,
+    colorlinks=true,
+    linkcolor=Blue,
+    urlcolor=BlueViolet,
+    citecolor=Blue,
+    ]{hyperref}
+
+\definecolor{claro}{RGB}{99,200,25}
+\definecolor{oscuro}{RGB}{0,135,0}
+\definecolor{charla}{RGB}{0,169,157}
+\definecolor{social}{RGB}{250,150,30}
+
+\parskip=2mm
+
+\usepackage{eso-pic}
+\newcommand\BackgroundPic{
+\put(0,0){
+\parbox[b][\paperheight]{\paperwidth}{%
+\vfill
+\centering
+\includegraphics[width=\paperwidth,height=\paperheight,
+keepaspectratio]{f4hc_back.png}%
+\vfill
+}}}
+
+\begin{document}
+
+\pagestyle{empty}
+
+\AddToShipoutPicture{\BackgroundPic}
+
+\begin{center}
+\begin{tabular}{ m{6.5cm} m{9cm} }
+\includegraphics[width=150pt]{./logo_f4hc.png}
+&
+\begin{minipage}{9cm}
+Organizador:
+\begin{center}
+\includegraphics[width=100pt]{./itsas.png}
+\end{center}
+
+Patrocinadores:
+\begin{center}
+\includegraphics[width=100pt]{./upv_ehu.png}
+\hspace{0.5cm}
+\centering\includegraphics[width=100pt]{./cenatic.png}
+\end{center}
+\end{minipage}
+\\
+\end{tabular}
+\end{center}
+
+\Large
+\textbf{{\color{claro}Jueves 14, mañana:} {\color{oscuro}especial Comunicaciones}}
+
+\normalsize
+{\color{social}\textbf{09:00}} Recepción
+
+{\color{charla}\textbf{09:15}} Asterisk, la centralita IP que sirve para mucho más - Iker Sagasti
+
+{\color{charla}\textbf{10:00}} Protocolo SIP, más allá de la VoIP - Saúl Ibarra
+
+{\color{social}\textbf{10:45}} Descanso
+
+{\color{charla}\textbf{11:15}} Proyecto HSMMN, integración de radio y Voz IP - Alex Casanova
+
+{\color{charla}\textbf{12:00}} ifreeTablet, el tablet libre con software libre - Jose Luis Aparicio
+
+{\color{charla}\textbf{12:45}} Proyecto Arduino - David Cuartielles
+
+{\color{social}\textbf{13:45}} Fin de la sesión
+
+\Large
+\textbf{{\color{claro}Jueves 14, tarde:} {\color{oscuro} especial Guifi}}
+
+\normalsize
+{\color{charla}\textbf{16:00}} Tempest y otras fugas de información - Pablo Garaizar
+
+{\color{charla}\textbf{16:45}} La (r)evolución guifi.net
+
+{\color{social}\textbf{17:30}} Descanso
+
+{\color{charla}\textbf{18:00}} Redes Mesh con tecnología inalámbrica: aspectos técnicos y sociales - Pau Escrich
+
+{\color{charla}\textbf{19:00}} Guifi EH, la red wifi libre de Cataluña llega a Euskal Herria - Joseba Senosiain
+
+{\color{social}\textbf{19:30}} Fin de la sesión
+
+{\color{social}\textbf{21:30}} Cena con ponentes
+
+\Large
+\textbf{{\color{claro}Viernes 15, mañana:} {\color{oscuro} especial Hardware libre}}
+
+\normalsize
+{\color{charla}\textbf{09:30}} Ordenadores de bajo consumo: el caso del SheevaPlug - Jorge Cacho
+
+{\color{charla}\textbf{10:00}} El estado del arte en desarrollo de aplicaciones multiplataforma para móviles mediante estándares abiertos - Iker Pérez de Albéniz
+
+{\color{social}\textbf{10:45}} Descanso
+
+{\color{charla}\textbf{11:15}} OpenLase, proyección realtime con láser - Hector Martín
+
+{\color{charla}\textbf{12:15}} Hardware copyleft, la comunidad Qi-hardware - David Reyes
+
+{\color{social}\textbf{13:30}} Fin del evento 
+
+\begin{center}
+\Huge{\textbf{\color{oscuro}http://itsas.ehu.es/f4hc}}
+\end{center}
+\end{document}

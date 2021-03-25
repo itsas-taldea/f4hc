@@ -1,0 +1,17 @@
+====== Bizkaia Aretoa ======
+Ekintzak Iberdrola dorrea, Deustuko liburutegia eta Arte Ederretako Bilboko Museoaren ondoan dagoen [[http://www.bizkaia.ehu.es/p209-sharetct/es/contenidos/informacion/sharet_edificio/es_biz_aret/edificio.html|Bizkaia Aretoan]] (Abandoibarra hiribidea 3) izango dira, Paraninfoaren **[[http://www.bizkaia.ehu.es/p209-sharetct/es/contenidos/informacion/sharet_fotografias/es_fotos/baroja.html|Baroja]]** entzunaretoan.
+
+Ondo komunikaturiko eremua da, hurrengoak hurbil baititu:
+  *Moyua metro geltokia.
+  *Abandoibarra eta Guggenheim tranbia geltokiak.
+\\
+;#;
+[[http://www.bizkaia.ehu.es/p209-content/es/contenidos/centro/vrb_ubicaciones/es_ubicacio/adjuntos/Plano%20Bilbao,%202011.pdf|Bizkaiko Campuseko planoa]] (Bilbo, Barakaldo eta Portugalete)
+;#;
+\\
+
+<olmap id="olMap" width="500px" height="400px" lat="43.2684415" lon="-2.9375105" zoom="17" statusbar="1" toolbar="1" controls="1" poihoverstyle="2">
+43.268725,-2.937961,0,.8,marker-red.png,Baroja Entzunaretoa (Bizkaia Aretoa) \\
+ baselyr="OpenStreetMap">
+Paraninfo
+</olmap>
