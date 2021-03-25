@@ -1,0 +1,85 @@
+\documentclass[a4paper,titlepage,11pt,oneside]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[left=20mm, right=20mm, top=25mm, bottom=20mm]{geometry}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{fancybox}
+\usepackage{multirow}
+
+\usepackage[usenames,dvipsnames]{color}
+\usepackage[
+    bookmarks=true,
+    unicode=true,
+    pdftitle={Freedom for Hardware and Communications},
+    pdfsubject={f4hc},
+    pdfauthor={ITSAS},
+    linktoc=all,
+    colorlinks=true,
+    linkcolor=Blue,
+    urlcolor=BlueViolet,
+    citecolor=Blue,
+    ]{hyperref}
+
+\definecolor{claro}{RGB}{99,200,25}
+\definecolor{oscuro}{RGB}{0,135,0}
+\definecolor{charla}{RGB}{0,169,157}
+\definecolor{social}{RGB}{250,150,30}
+
+\parskip=2mm
+
+\usepackage{eso-pic}
+\newcommand\BackgroundPic{
+\put(0,0){
+\parbox[b][\paperheight]{\paperwidth}{%
+\vfill
+\centering
+\includegraphics[width=\paperwidth,height=\paperheight,
+keepaspectratio]{f4hc_back.png}%
+\vfill
+}}}
+
+\begin{document}
+
+\pagestyle{empty}
+
+\AddToShipoutPicture{\BackgroundPic}
+
+\begin{center}
+\includegraphics[width=100pt]{./itsas.png}\hspace{1cm}
+\includegraphics[width=100pt]{./upv_ehu.png}\hspace{1cm}
+\includegraphics[width=100pt]{./cenatic.png}
+
+\vspace{1cm}
+\end{center}
+
+\Large
+El comité organizativo
+
+\Huge
+\begin{center}CERTIFICA\end{center}
+
+\Large
+Que D. ISAAC HACKSIMOV ha asistido a las jornadas \textbf{f4hc, \textit{Freedom for Hardware \& Communications}} celebradas en el Bizkaia Aretoa de la Universidad del País Vasco / Euskal Herriko Unibertsitatea durante los días 14 y 15 de julio de 2011.
+
+\begin{center}
+\includegraphics[width=200pt]{./logo_f4hc.png}
+\begin{tabular}{ m{8cm} m{8cm} }
+&\\
+&\\
+&\\
+&\\
+&\\
+\begin{center}Dani Gutiérrez Porset\end{center}&\begin{center}Javier Quintano\end{center}\\
+&\\
+&\\
+&\\
+\begin{center}Mikel Gutiérrez\end{center} & \begin{center}Unai Martínez Corral\end{center}\\
+\end{tabular}
+\end{center}
+
+
+\vspace{2cm}
+
+\end{document}
